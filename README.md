@@ -12,4 +12,8 @@ Here's are the list of Different Python Projects:
    Password Manager is a Python application that allows users to securely store and manage their website login credentials. It
    features a graphical user interface (GUI) built with Tkinter, making it easy for users to generate strong passwords, save
    their credentials, and retrieve them when needed.
+4. POMODORO TIMER:
+   The Pomodoro Timer is a Python application that implements the Pomodoro Technique, a time management method developed by
+   Francesco Cirillo. This application features a graphical user interface (GUI) built with Tkinter, making it easy for users
+   to manage their work sessions and breaks.
 
