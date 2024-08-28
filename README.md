@@ -16,4 +16,8 @@ Here's are the list of Different Python Projects:
    The Pomodoro Timer is a Python application that implements the Pomodoro Technique, a time management method developed by
    Francesco Cirillo. This application features a graphical user interface (GUI) built with Tkinter, making it easy for users
    to manage their work sessions and breaks.
+5. INDIAN STATES GUESSING GAME:
+   This is a Python-based educational game that helps users learn the names and locations of Indian states. The game uses a
+   graphical interface to display a map of India and allows players to guess the names of states, marking them on the map as
+   they go.
 
