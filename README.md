@@ -6,7 +6,7 @@ Here's are the list of Different Python Projects:
    birthday wishes.
 2. CURRENCY CONVERTOR:
    Currency Converter is a Python application that allows users to convert between different currencies using real-time exchange
-   rates using api "https://api.freecurrencyapi.com" . It features a graphical user interface (GUI) built with Tkinter, making
+   rates using api "[https://api.freecurrencyapi.com](https://freecurrencyapi.com/)" . It features a graphical user interface (GUI) built with Tkinter, making
    it easy for users to input amounts and select currencies for conversion.
 3. PASSWORD GENERATOR:
    Password Manager is a Python application that allows users to securely store and manage their website login credentials. It
