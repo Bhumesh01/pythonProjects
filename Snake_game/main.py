@@ -49,16 +49,3 @@ while game_is_on:
     #             pass
 
 screen.exitonclick()
-'''
-CLASS INHERITANCE:Classes can inherit from another classes inheriting attributes,inheriting methods
-the process of inheriting attributes, methods from another class is called class inheritance
-class Animal:
-    def __init__(self):
-        Do this
-to inherit class Fish :
-class Fish(Animal):  Fish is inherited from the class Animal
-    def __init(self):
-        super().__init__() Super refers to the Super Class here it is Animal
-this line is used to inherit all the attributes of the super(Animal) class
- 
-'''
