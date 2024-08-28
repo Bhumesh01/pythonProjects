@@ -21,6 +21,10 @@ Here's are the list of Different Python Projects:
    graphical interface to display a map of India and allows players to guess the names of states, marking them on the map as
    they go.
 6. SNAKE GAME:
-   This is a Python implementation of the classic Snake game using the Turtle graphics library. The game features a snake that grows longer as it eats food, with the
-   objective to achieve the highest score possible without colliding with the walls or the snake's own body.
+   This is a Python implementation of the classic Snake game using the Turtle graphics library. The game features a snake
+   that grows longer as it eats food, with the objective to achieve the highest score possible without colliding with the
+   walls or the snake's own body.
+7. TURTLE CROSSING THE ROAD GAME:
+   A simple and fun game built with Python's Turtle graphics library. The player controls a turtle that must cross a busy
+   road while avoiding cars.
 
