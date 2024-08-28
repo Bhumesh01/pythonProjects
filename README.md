@@ -20,4 +20,7 @@ Here's are the list of Different Python Projects:
    This is a Python-based educational game that helps users learn the names and locations of Indian states. The game uses a
    graphical interface to display a map of India and allows players to guess the names of states, marking them on the map as
    they go.
+6. SNAKE GAME:
+   This is a Python implementation of the classic Snake game using the Turtle graphics library. The game features a snake that grows longer as it eats food, with the
+   objective to achieve the highest score possible without colliding with the walls or the snake's own body.
 
