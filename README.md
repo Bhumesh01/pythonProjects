@@ -27,4 +27,7 @@ Here's are the list of Different Python Projects:
 7. TURTLE CROSSING THE ROAD GAME:
    A simple and fun game built with Python's Turtle graphics library. The player controls a turtle that must cross a busy
    road while avoiding cars.
+8. PING PONG GAME:
+   A classic two-player Ping Pong game built with Python's Turtle graphics library. Players control paddles to hit a ball
+   back and forth across the screen.
 
